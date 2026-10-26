@@ -1,0 +1,9 @@
+{
+  "appId": "com.financecoach.jotform",
+  "appName": "Finance Coach",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.jotform.com/app/262974554546470",
+    "allowNavigation": ["*.jotform.com", "jotform.com"]
+  }
+}
